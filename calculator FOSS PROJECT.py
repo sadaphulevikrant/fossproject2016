@@ -1,0 +1,12 @@
+a=int(input('enter a first number'))
+b=int(input('enter a second number'))
+c=a+b
+print('addition=',c)
+d=a-b
+print('subraction=',d)
+e=a*b
+print('multiplication=',e)
+f=a**b
+print('exponential=',f)
+g=a%b
+print('division=',g)
